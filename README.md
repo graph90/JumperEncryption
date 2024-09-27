@@ -24,6 +24,6 @@ The repository includes a decryption script to reverse the encryption process. I
 1. **Encryption**:  
    Run the `jumper.py` script to encrypt random folders.
 2. **Decryption**:
-   Run the 'undo.py' script to decrypt the folders
+   Run the `undo.py` script to decrypt the folders
 
 Tested on Ubuntu
